@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import isabelle_img from "./images/isabelle.jpg"
+import isabelle_img from "../images/isabelle.jpg"
 
 const BoxOutline = styled.div`
 border: 5px solid #da2780;
